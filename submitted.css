@@ -1,0 +1,13 @@
+html {
+    font-family: 'Noto Sans';
+    min-height: 100%;
+    background: repeating-linear-gradient(45deg, rgb(240, 240, 240) 0px, rgb(240, 240, 240) 120px, rgb(236, 236, 236) 120px, rgb(236, 236, 236) 240px);
+}
+
+section {
+    text-align: center;
+}
+
+section h1 {
+    font-size: xxx-large;
+}
